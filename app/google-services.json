@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469407408738",
+    "firebase_url": "https://haitievents-55695.firebaseio.com",
+    "project_id": "haitievents-55695",
+    "storage_bucket": "haitievents-55695.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469407408738:android:035d2577071bbd0f",
+        "android_client_info": {
+          "package_name": "com.example.addidi.eventsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469407408738-n1jgonbf0oh7jv4dr2irou4dnohkr3f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addidi.eventsapp",
+            "certificate_hash": "56e87482a3136d9506642de43ab5553c546ab718"
+          }
+        },
+        {
+          "client_id": "469407408738-p4p30sm3c148ijikon5966ujvsb5digd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3gUAtZw7wy1kT0-2_etmFGCrm_kYKQ84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469407408738-p4p30sm3c148ijikon5966ujvsb5digd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
