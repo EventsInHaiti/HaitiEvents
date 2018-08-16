@@ -5,7 +5,7 @@
 
 ## User Stories
 The following **required** functionality is completed:
-* [ ] User should Sign up before using the app
+* [x] User should Sign up before using the app
 * [ ] User can switch between Events, Trending and Approach views using tabs.
   * [ ] User can view All events.
   * [ ] User can view Trending events.
