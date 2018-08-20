@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EventsApp</string>
+    <string name="app_name">HAITI EVENTS</string>
     <string name="title_activity_login">Sign in</string>
 
     <!-- Strings related to login -->
@@ -32,4 +32,9 @@
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
     <string name="title_activity_signup">SignupActivity</string>
     <string name="haiti_events">HAITI EVENTS</string>
+    <string name="search_hint">Search</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
 </resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <item
+                android:id="@+id/home"
+                android:title="Home" />
+            <item
+                android:id="@+id/conference"
+                android:title="Conference" />
+            <item
+                android:id="@+id/party"
+                android:title="Party" />
+            <item
+                android:id="@+id/workshop"
+                android:title="Workshop" />
+            <item
+                android:id="@+id/miscellaneous"
+                android:title="Miscellaneous" />
+
+
+
+    <item android:title="User">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/archive"
+                    android:icon="@drawable/ic_one"
+                    android:title="Archive" />
+                <item
+                    android:id="@+id/account"
+                    android:icon="@drawable/ic_two"
+                    android:title="Account" />
+            </group>
+        </menu>
+    </item>
+    </menu>
