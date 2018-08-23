@@ -15,10 +15,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.TimelineActivity"></activity>
         <activity
             android:name=".activities.LoginActivity"
-            android:label="@string/title_activity_login">
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,6 +30,7 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".activities.ResetPasswordActivity" />
         <activity android:name=".activities.EventDetailActivity"></activity>
+        <activity android:name=".activities.TimelineActivity"></activity>
     </application>
 
 </manifest>
